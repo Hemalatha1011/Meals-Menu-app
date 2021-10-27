@@ -1,0 +1,38 @@
+.logo {
+  position: absolute;
+  margin-left: 2%;
+}
+.Menu {
+  padding-right: 5% !important;
+  float: right !important;
+}
+.search {
+  width: 100%;
+  background-image: url(https://lh3.googleusercontent.com/UL88dMiNgTbO9uLeECbYZpjJlfwuHjRfAfreliXt7kEKzBqs_CtwXiUHRUaAmJx78bLOTKYwpljdbbr0=w1080-h608-p-no-v0);
+}
+h1 {
+  margin-top: 3%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: xx-large;
+  color: #e6872e;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+
+.card-inner:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+h2 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+.title :hover {
+  color: darkred;
+}

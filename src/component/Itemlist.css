@@ -1,0 +1,15 @@
+.lists {
+  font-family: serif;
+  font-style: italic;
+  color: #000;
+}
+
+.describe {
+  background-color: lightgray;
+  margin: 0 5% 0px 5%;
+}
+
+h3 {
+  font-size: 25px;
+  color: brown;
+}
